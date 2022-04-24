@@ -13,6 +13,8 @@ class Main {
         car2.driver = "juan seballos";
         car2.passegenger = 5;
         System.out.println("Car License: " + car2.license);
+        print("estos cambiaos den estar en cabezera")
+        
 
     }
 }
