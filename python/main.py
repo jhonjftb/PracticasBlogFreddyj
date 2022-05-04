@@ -1,8 +1,18 @@
+from car import Car
 if __name__ == "__main__":
     print("hola mundo")
-    print("hola a todos por fin pude hacer los cambios necesarios ")
-    print("pude funcionar todas las ramas de main en mis repositorios git")
-    print("los nuevoss combios se deben agregar a remote ")
-    print("los nuevos coambios ya estan echos")
-    print("para reflejar estos cambios ")
+    print("hola a todos los plazitnautas")
+    car = Car()
+    car.license = "FJB879"
+    car.driver = "jhohan sabedra"
+    print(vars(car))    
+
+
+    car2 = Car()
+    car2.license = "KLE234"
+    car2.driver = "ana maria"
+    print(vars(car2))
+
+
+
     
