@@ -11,9 +11,14 @@ jejejejjjejejjejejjejjejjejje
 ahora si pude conectar todas estas ramas 
 mucho trabaja pero se pudo 
 el que persevera alcanza 
+<<<<<<< HEAD
 >>>>>>> a3098352ccea6e8edf5a341f3b89de258dc61ed9
 =======
 ahora si pude conectar todas estas ramas 
 mucho trabaja pero se pudo 
 el que persevera alcanza 
 >>>>>>> a3098352ccea6e8edf5a341f3b89de258dc61ed9
+=======
+
+hola a todos estamos mejorando la imagen para tener una mejor esoeriencia 
+>>>>>>> header
