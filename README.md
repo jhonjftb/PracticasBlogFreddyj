@@ -22,4 +22,4 @@ el que persevera alcanza
 
 hola a todos estamos mejorando la imagen para tener una mejor esoeriencia 
 >>>>>>> header
-cambios que se realizan con fis-tipo
+cambios que se realizan para la rama fis-tipo que es necesaria 
