@@ -1,16 +1,10 @@
-class Account:
-    id              = int
-    name            = str
-    Document        = str
-    mail            = str
-    password        = str 
-
-    def __init__(self, name, document):
-        self.name   = name
-        self.document = document
+import email
+from unicodedata import name
+from xml.dom.minidom import Document
 
 
-
-
-
-
+id              = int
+name            = str
+Document        = str
+email           = str
+password        = str 
