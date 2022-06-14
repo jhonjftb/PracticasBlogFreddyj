@@ -1,3 +1,3 @@
 class Payment:
-    id = int;
+    print()
     
