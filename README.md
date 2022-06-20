@@ -1,11 +1,12 @@
 # PracticasBlogFreddyj
 es un incleíble blog de las placticas de git y Git y GitHub de la escuela de platzi
+es una copia del original 
 <<<<<<< HEAD
 <<<<<<< HEAD
 esta es la parte que le corresponde a jhon blandon 
 esta colaboramdo con este trabajos 
 entonces tiene todos los permisos 
-jejejejjjejejjejejjejjejjejje 
+jtaverablandon ya no tiene permisos para este proyecto  
 
 =======
 ahora si pude conectar todas estas ramas 
@@ -22,4 +23,6 @@ el que persevera alcanza
 
 hola a todos estamos mejorando la imagen para tener una mejor esoeriencia 
 >>>>>>> header
-cambios que se realizan para la rama fis-tipo que es necesaria 
+cambios que se realizan para la rama fis-tipo que es necesaria
+para poder trabajar en este proyecto debe clonarlo 
+
