@@ -24,7 +24,7 @@ public class programa_final {
                 cantEmplSalSuperior++;
             }
         }
-        JOptionPane.showMessageDialog(null,"el salario de la mayoria de empleados con salario mayor al promedio es "
+        JOptionPane.showMessageDialog(null,"el salario de la mayoria de empleados de la empresa acon con salario mayor al promedio es "
         + cantEmplSalSuperior);
     }
         
