@@ -1,4 +1,16 @@
 # PracticasBlogFreddyj
+<<<<<<< HEAD
+Es un increíble super incleíbleblog de las placticas de git y Git y GitHub de la escuela de platzi para los estudios 
+ahora si pude conectar todas estas ramas para verificarce 
+mucho trabaja pero se pudo 
+el que persevera alcanza hasta el final  
+
+
+esta imagen se esta mejorando 
+
+estos son cambios que se realizaron con la rama fys-tipo 
+nuevos cambios 
+=======
 es un incleíble blog de las placticas de git y Git y GitHub de la escuela de platzi
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -23,3 +35,4 @@ el que persevera alcanza
 hola a todos estamos mejorando la imagen para tener una mejor esoeriencia 
 >>>>>>> header
 cambios que se realizan para la rama fis-tipo que es necesaria 
+>>>>>>> 9df94a16c7aa7ce8a8e9f7bf2db86b6c2c4f5a99
